@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The advice and direction of both Hovses of Parliament to Sir William Brereton and to the rest of the deputy lieutenants for the county of Chester with orders of the Lords and Commons assembled in Parliament for the regulating of those souldiers that are gon or shall goe under the command of His Excellency Robert Earle of Essex, Lord generall for this expedition.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21879</idno><idno type="EEBO-CITATION">12258353</idno>
+  <idno type="VID">197507</idno>
+  <idno type="EEBO-PROQUEST">2240952974</idno>
+  
+            <idno type="STC">Wing E1197</idno>
+            <idno type="OCLC">12258353</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197507)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E112, no 37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The advice and direction of both Hovses of Parliament to Sir William Brereton and to the rest of the deputy lieutenants for the county of Chester with orders of the Lords and Commons assembled in Parliament for the regulating of those souldiers that are gon or shall goe under the command of His Excellency Robert Earle of Essex, Lord generall for this expedition.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Wright,</publisher>
+                  <pubPlace>... Printed at London :</pubPlace>
+                  <date>August 19, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brereton, William, --  Sir, 1604-1661.</term>
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">Chester (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197507:1"/>
+            <p> THE ADVICE AND DIRECTION Of Both HOVSES of PARLIAMENT, To Sir <hi>William</hi> BRERETON, and to the rest of the Deputy Lieutenants, for the County of <hi>CHESTER.</hi>
+            </p>
+            <p>With Orders of the LORDS and COMMONS Assembled in <hi>Parliament,</hi> for the Regulating of those Souldiers that are gon, or shall goe, under the Command of his <hi>Excellency, Robert</hi> Earle of <hi>Essex,</hi> Lord Generall for this Expedition.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Die Jovis, August 18. 1642.</p>
+                        <p>
+                           <hi>Ordered by the Lords and Commons Assembled in Par<g ref="char:EOLhyphen"/>liament that these Orders bee forthwith Printed and Pub<g ref="char:EOLhyphen"/>lished.</hi> John Browne Cler. Parliamentor.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>August</hi> 19. Printed at <hi>London</hi> for <hi>Iohn Wright.</hi> 1642.</p>
+            <pb facs="tcp:197507:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="instructions">
+            <pb n="1" facs="tcp:197507:2"/>
+            <head>Instructions for Sir <hi>William Brereton,</hi> one of the Members of the House of Commons, and one of the Deputy Lieutenants of the Countie of <hi>Chester,</hi> and for the rest of the Deputy Lieute<g ref="char:EOLhyphen"/>nants for that Countie.</head>
+            <p>WHereas it doth appeare to the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament now assembled, that the King seduced by wicked Counsell, intends to make War against the Parliament, and for that it is not improbable that under colour of a guard for his Majesties person, or some o<g ref="char:EOLhyphen"/>ther pretences, the Knights, Gentlemen, Freeholders, and In<g ref="char:EOLhyphen"/>habitants of the County of <hi>Chester,</hi> may be drawne together, therefore you, and every of you, shall take speciall care that the Ordinance concerning the <hi>Militia</hi> be put in execution through the whole County; and the Sheriffe, and all other Officers are hereby moved to assist you, and every of you therein; and if any person whatsoever shal leavie or endeavor to leavy any Souldiers, or draw, or keepe together the trained bands, or other armed Forces of the said County, or any o<g ref="char:EOLhyphen"/>ther Force, by colour or pretence of any Commission or warrant from his Majesty, under the great Seale or other<g ref="char:EOLhyphen"/>wise, without Order or consent of both Houses of Parlia<g ref="char:EOLhyphen"/>ment, you, and every of you, shall in the name and authority of both Houses, require and command all persons to forbeare the execution of such Commission or warrant, &amp; the same to be delivered up to you, or any of you, to be sent to the Spea<g ref="char:EOLhyphen"/>ker of the House of Commons, and you, and every of you, shall require and command all his Majesties Subjects, to for<g ref="char:EOLhyphen"/>beare to obey any such warrant or Commission, and you, &amp; every of you, are hereby required to draw together such of
+<pb n="2" facs="tcp:197507:3"/> the trained Bands and other forces of the said County, as shall be expedient for the suppressing of all such Assemblies, and for apprehending of all or any person or persons as shall after admonition and command by you, or any of you, made unto them to forbeare the execution of any such command or warrant, or the calling or gathering of or keeping together any such forces or assemblies, still persist in doing the same, and likewise such disaffected persons as shall be found raising any parties or forces against the Parliament, to be sent up hither to answer such their offences as to law and Justice shall appertaine; and you the abovesaid Sir <hi>William Brereton,</hi> shall in the names of the Lords and Commons, require and com<g ref="char:EOLhyphen"/>mand the Sheriffe of the County of <hi>Chester,</hi> to publish throughout the said County, the Declarations formerly Printed by both Houses of Parliament, and you, and every of you, shall further take care that such Resolutions, and Orders of both Houses (as have bin, or shal be delivered, and sent down to you, or any of you) be put in execution, &amp; shall require the Sheriffe and Justices of the peace, and all other his Majesties Officers and Lieutenants, to be aiding and assisting to you for that purpose; and you shall declare unto all men, that it hath beene, and still shall be the care and endeavour of both Hou<g ref="char:EOLhyphen"/>ses of Parliament to provide for his Majesties safety, that they doe not, nor ever did know of any evill intended to his Maje<g ref="char:EOLhyphen"/>sties person which might move him to require any extraordi<g ref="char:EOLhyphen"/>nary armed guard, that his greatest safety is in the Parliament, and his greatest danger in withdrawing himselfe from them; To that under colour of doing him service, disaffected and Malignant persons, obnoxious for their bad counsells against the Justice of the Law, labour to raise forces and a party, a<g ref="char:EOLhyphen"/>gainst the Parliament, which at the last may break out into o<g ref="char:EOLhyphen"/>pen Rebellion &amp; civil war, to the destruction both of King and Kingdome, you the said Sir <hi>William Brereton,</hi> and every of you, shall endeavour to cleare the proceedings of Parliament from all imputation and aspersions, and shall from time to time
+<pb n="3" facs="tcp:197507:3"/> certifie so of all things which you conceive necessary for the present service, and that we may have a sudden warning of it, and that our directions to you as well as your advertisements to us may have a cleare and ready passage, you and every of you, shall lay a strict charge upon all post-masters, that they doe not suffer any Letters or other dispatches to or from the Parliament to be intercepted or stayd; and if any shall pre<g ref="char:EOLhyphen"/>sume to make stay of such dispatches, you and every of you, shall direct the post-masters to repaire to the Justices of the peace, Constables, and all other Officers, for their ayd and as<g ref="char:EOLhyphen"/>sistance, who are hereby required to take a speciall care that there may be no such interruptions.</p>
+            <p>You and every of you, shall take care that none of the Re<g ref="char:EOLhyphen"/>cusants armes or other Amunition of the said County, becar<g ref="char:EOLhyphen"/>ried or taken out of the County upon any pretence or comand whatsoever, without warrant of both Houses of Parliament.</p>
+            <p>And you and every of you, shall give order and direction to the Sheriffes, Justices of the peace and other Officers, to require and command all the Popish Recusants in that Coun<g ref="char:EOLhyphen"/>ty, to confine themselves to their dwellings, according to the Statute in that case provided, and if any such Recusant shall be found to transgresse therein, you and every of you, shall cause the Justices of the peace forthwith to bind them to their good behaviour, and upon refusall or neglect to give security ac<g ref="char:EOLhyphen"/>cordingly, to commit them to prison, and further to proceed against them according to the Law.</p>
+            <p>You shall also in the name of both Houses of Parliament, require all such persons who have in their custody any part of the publike Magazine of your County, to deliver the same un<g ref="char:EOLhyphen"/>to you or some of you, to be imployed for the service of the said County.</p>
+            <p>And you &amp; every of you, are likewise to give charge from both Houses of Parliament, to all Captaines and Lieutenants, and other Officers of the <hi>Militia,</hi> that they be observant to such
+<pb n="4" facs="tcp:197507:4"/> directions as they shall from time to time receive from the Lieutenant of the County or his Deputies, or any of them, for due performance of any commands of the said hou<g ref="char:EOLhyphen"/>ses.</p>
+            <p>And you and every of you, shall resist and repell, and are hereby authorized to resist and repell by the power of the said County and by all other wayes and meanes, all such force and violence as shall be raised or brought by any person ot persons to the hindrance or disturbance of the said service, or for the Arresting or seizing the persons of you or any of you, or of any other that shall be imployed in the Ordinan<g ref="char:EOLhyphen"/>ces, instructions, and commands of both Houses of Parlia<g ref="char:EOLhyphen"/>ment, for any thing done in execution thereof, and the She<g ref="char:EOLhyphen"/>riffe, and the Justices of peace of the said County, and all o<g ref="char:EOLhyphen"/>ther Officers and Subjects are hereby injoyned to be ayding and assisting to you and every of you, for the more better and speedier execution of the premises.</p>
+            <p>And the Lords and Commons doe hereby declare, that they will protect, defend and assist, all manner of persons for such actions as they shall performe in pursuance of these in<g ref="char:EOLhyphen"/>structions and other Orders and commands of the said Hou<g ref="char:EOLhyphen"/>ses of Parliament.</p>
+            <closer>
+               <signed>John Browne Cleri. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="orders">
+            <pb n="5" facs="tcp:197507:4"/>
+            <head>Orders of the Lords and Commons Assembled in Parliament.</head>
+            <p>IT is this day Ordered by the Lords and Commons in Parliament assembled, that the severall Lords Lieute<g ref="char:EOLhyphen"/>nants appoynted by Parliament, their Deputy Lieute<g ref="char:EOLhyphen"/>nants, the Justices of the peace, and other his Majesties Offi<g ref="char:EOLhyphen"/>cers within the Kingdome of <hi>England</hi> and Dominion of <hi>VVales,</hi> shall take speciall care to prevent and suppresse all Ryots, Tumults, breaking into, or Robbing houses, break<g ref="char:EOLhyphen"/>ing into Churches, taking away of the Goods of any person, or taking of Victualls, without due payment for the same, and to take and Apprehend all such person or persons as shall doe or commit any such Outrages as aforesaid, and to proceed against them according to Law. And it is further Ordered, that the Commanders and severall Officers, shall give their best assistance for the apprehension and punishment of all such persons which shall be found guilty of the mis<g ref="char:EOLhyphen"/>demeanors aforesaid.</p>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:197507:5"/>
+            <head>
+               <hi>Die Jovis</hi> August 18, 1642.</head>
+            <p>WHereas there have beene divers Complaints made unto us of many disorders committed by the Soldi<g ref="char:EOLhyphen"/>ers in their marching, and in such places wherein they have beene quartered or Billited, which disorders (as is informed) have beene partly occasioned by the neglect of their Officers to goe along with them and conduct them: It is therefore Ordered by the Lords and Commons Assembled in Parliament, that the Lord Generall be desired to give Command to all his Officers, that they take care to attend according to the duty of their severall places, that the Soul<g ref="char:EOLhyphen"/>diers thereby may be hereafter kept from stragling up and downe the Countires: And to that end to lay his Command upon the Officers of each Company, both in the Marching, Quartering, and Billerting, to be in person amongst the Soul<g ref="char:EOLhyphen"/>diers themselves, to prevent any disorders whatsoever, and punish such as shall offend.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>ORdered by the Lords and Commons Assembled in Parliament, that these Orders be forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>John Browne Cleric, Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
